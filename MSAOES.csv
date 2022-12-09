@@ -1,0 +1,759 @@
+Occupation (SOC code),Employment(1),Hourly mean wage,Annual mean wage(2)
+All Occupations(000000),     5719620,       31.70,       65930
+Management Occupations(110000),      410750,       65.31,      135840
+Chief Executives(111011),       12110,      123.36,      256600
+General and Operations Managers(111021),      100000,       63.48,      132030
+Legislators(111031),           -,           -,       77320
+Advertising and Promotions Managers(112011),        1940,       74.95,      155890
+Marketing Managers(112021),       17020,       77.77,      161750
+Sales Managers(112022),       31390,       64.31,      133760
+Public Relations Managers(112032),        2650,       66.40,      138120
+Fundraising Managers(112033),         790,       58.36,      121400
+Administrative Services Managers(113012),       12880,       55.46,      115350
+Facilities Managers(113013),        4480,       51.61,      107350
+Computer and Information Systems Managers(113021),       24140,       83.11,      172880
+Financial Managers(113031),       37650,       77.35,      160890
+Industrial Production Managers(113051),        8280,       56.04,      116560
+Purchasing Managers(113061),        2810,       67.44,      140280
+"Transportation, Storage, and Distribution Managers(113071)",        8920,       51.94,      108030
+Compensation and Benefits Managers(113111),         610,       67.36,      140120
+Human Resources Managers(113121),        8910,       72.46,      150720
+Training and Development Managers(113131),        1600,       67.42,      140240
+"Farmers, Ranchers, and Other Agricultural Managers(119013)",           -,       41.71,       86750
+Construction Managers(119021),       10730,       57.45,      119490
+"Education and Childcare Administrators, Preschool and Daycare(119031)",        2760,       26.50,       55120
+"Education Administrators, Kindergarten through Secondary(119032)",        7200,           -,      126150
+"Education Administrators, Postsecondary(119033)",        6520,       61.42,      127750
+"Education Administrators, All Other(119039)",           -,       48.21,      100270
+Architectural and Engineering Managers(119041),       10310,       83.97,      174660
+Food Service Managers(119051),       11960,       29.00,       60320
+"Entertainment and Recreation Managers, Except Gambling(119072)",        1590,       32.74,       68100
+Lodging Managers(119081),        1210,       35.55,       73950
+Medical and Health Services Managers(119111),       16770,       59.12,      122960
+Natural Sciences Managers(119121),        1900,       78.43,      163130
+Postmasters and Mail Superintendents(119131),         110,       44.91,       93400
+"Property, Real Estate, and Community Association Managers(119141)",       17680,       37.16,       77290
+Social and Community Service Managers(119151),        8380,       41.74,       86830
+Emergency Management Directors(119161),         140,       58.34,      121340
+Funeral Home Managers(119171),         290,       37.92,       78880
+"Personal Service Managers, All Other(119179)",           -,       29.60,       61560
+"Managers, All Other(119199)",       28920,       74.12,      154180
+Business and Financial Operations Occupations(130000),      400550,       41.54,       86400
+"Agents and Business Managers of Artists, Performers, and Athletes(131011)",        5440,       63.78,      132660
+Buyers and Purchasing Agents(131020),       18540,       35.23,       73270
+"Claims Adjusters, Examiners, and Investigators(131031)",        8740,       38.09,       79230
+"Insurance Appraisers, Auto Damage(131032)",         500,       36.77,       76480
+Compliance Officers(131041),       14820,       40.57,       84390
+Cost Estimators(131051),        9200,       35.87,       74610
+Human Resources Specialists(131071),       29260,       37.16,       77290
+Labor Relations Specialists(131075),        2810,       39.37,       81890
+Logisticians(131081),        8540,       40.82,       84900
+Project Management Specialists(131082),       28480,       48.85,      101600
+Management Analysts(131111),       32160,       51.27,      106630
+"Meeting, Convention, and Event Planners(131121)",        4620,       31.25,       65010
+Fundraisers(131131),        2390,       33.45,       69570
+"Compensation, Benefits, and Job Analysis Specialists(131141)",        3070,       37.40,       77790
+Training and Development Specialists(131151),       10210,       36.06,       75000
+Market Research Analysts and Marketing Specialists(131161),       38240,       36.91,       76770
+"Business Operations Specialists, All Other(131199)",       60250,       37.34,       77680
+Accountants and Auditors(132011),       59470,       43.13,       89700
+Property Appraisers and Assessors(132020),        2150,       40.71,       84670
+Budget Analysts(132031),        1400,       47.42,       98640
+Credit Analysts(132041),        3040,       41.74,       86820
+Financial and Investment Analysts(132051),       11760,       46.71,       97150
+Personal Financial Advisors(132052),       13840,       55.12,      114660
+Insurance Underwriters(132053),        3030,       41.35,       86000
+Financial Risk Specialists(132054),        1330,       53.87,      112050
+Financial Examiners(132061),        1470,       47.26,       98290
+Credit Counselors(132071),         700,       28.66,       59620
+Loan Officers(132072),       15280,       37.15,       77260
+"Tax Examiners and Collectors, and Revenue Agents(132081)",        1260,       45.94,       95560
+Tax Preparers(132082),           -,       27.43,       57060
+"Financial Specialists, All Other(132099)",        5810,       43.94,       91400
+Computer and Mathematical Occupations(150000),      165470,       50.28,      104580
+Computer Systems Analysts(151211),       16870,       55.04,      114480
+Information Security Analysts(151212),        3520,       56.19,      116880
+Computer and Information Research Scientists(151221),         980,       69.58,      144720
+Computer Network Support Specialists(151231),        4440,       34.31,       71350
+Computer User Support Specialists(151232),       19480,       31.32,       65150
+Computer Network Architects(151241),        5460,       58.07,      120790
+Database Administrators(151242),        2680,       49.27,      102480
+Database Architects(151243),        3400,       46.72,       97180
+Network and Computer Systems Administrators(151244),        8490,       46.28,       96250
+Computer Programmers(151251),        4900,       50.13,      104260
+Software Developers(151252),       49020,       60.20,      125210
+Software Quality Assurance Analysts and Testers(151253),        7300,       47.59,       98980
+Web Developers(151254),        4200,       40.97,       85220
+Web and Digital Interface Designers(151255),        3390,       44.21,       91950
+"Computer Occupations, All Other(151299)",       23610,       45.94,       95560
+Actuaries(152011),         510,       54.92,      114230
+Mathematicians(152021),          40,       62.30,      129590
+Operations Research Analysts(152031),        2400,       47.21,       98190
+Statisticians(152041),         910,       51.60,      107340
+Data Scientists(152051),        3830,       57.33,      119240
+"Mathematical Science Occupations, All Other(152099)",           -,       30.62,       63690
+Architecture and Engineering Occupations(170000),       95750,       49.15,      102230
+"Architects, Except Landscape and Naval(171011)",        6340,       46.01,       95690
+Landscape Architects(171012),         790,       41.75,       86840
+Cartographers and Photogrammetrists(171021),         200,       43.36,       90180
+Surveyors(171022),         950,       47.41,       98610
+Aerospace Engineers(172011),        3860,       65.24,      135690
+Bioengineers and Biomedical Engineers(172031),         740,       46.81,       97350
+Chemical Engineers(172041),         350,       53.79,      111880
+Civil Engineers(172051),       12220,       52.24,      108660
+Computer Hardware Engineers(172061),        1940,       68.95,      143420
+Electrical Engineers(172071),        9550,       59.67,      124110
+"Electronics Engineers, Except Computer(172072)",        5750,       59.20,      123130
+Environmental Engineers(172081),        1250,       53.31,      110890
+"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors(172111)",         520,       58.61,      121910
+Industrial Engineers(172112),        7840,       52.02,      108200
+Marine Engineers and Naval Architects(172121),          70,       50.67,      105390
+Materials Engineers(172131),         810,       51.04,      106160
+Mechanical Engineers(172141),        9850,       52.13,      108430
+"Mining and Geological Engineers, Including Mining Safety Engineers(172151)",           -,       64.63,      134420
+Nuclear Engineers(172161),          60,       58.96,      122640
+Petroleum Engineers(172171),         660,       68.61,      142700
+"Engineers, All Other(172199)",        8300,       53.76,      111830
+Architectural and Civil Drafters(173011),        5850,       30.95,       64370
+Electrical and Electronics Drafters(173012),        1020,       32.66,       67940
+Mechanical Drafters(173013),        1370,       31.31,       65110
+"Drafters, All Other(173019)",         680,       26.78,       55700
+Aerospace Engineering and Operations Technologists and Technicians(173021),         570,       40.80,       84870
+Civil Engineering Technologists and Technicians(173022),        1720,       36.84,       76630
+Electrical and Electronic Engineering Technologists and Technicians(173023),        4860,       33.75,       70190
+Electro-Mechanical and Mechatronics Technologists and Technicians(173024),         540,       31.76,       66060
+Environmental Engineering Technologists and Technicians(173025),           -,       35.71,       74280
+Industrial Engineering Technologists and Technicians(173026),         990,       33.43,       69540
+Mechanical Engineering Technologists and Technicians(173027),        1700,       33.66,       70020
+Calibration Technologists and Technicians(173028),         220,       29.37,       61090
+"Engineering Technologists and Technicians, Except Drafters, All Other(173029)",        2930,       31.89,       66340
+Surveying and Mapping Technicians(173031),         820,       37.42,       77840
+"Life, Physical, and Social Science Occupations(190000)",       47350,       40.34,       83900
+Food Scientists and Technologists(191012),         440,       41.94,       87240
+Soil and Plant Scientists(191013),           -,       45.79,       95250
+Biochemists and Biophysicists(191021),         780,       49.24,      102430
+Microbiologists(191022),         600,       43.54,       90560
+Zoologists and Wildlife Biologists(191023),         220,       32.55,       67690
+"Biological Scientists, All Other(191029)",        1910,       44.80,       93180
+Conservation Scientists(191031),           -,       33.14,       68920
+Foresters(191032),          60,       46.55,       96820
+Epidemiologists(191041),         220,       43.41,       90290
+"Medical Scientists, Except Epidemiologists(191042)",        4700,       52.36,      108900
+"Life Scientists, All Other(191099)",         240,       54.51,      113390
+Physicists(192012),         290,       73.58,      153040
+Atmospheric and Space Scientists(192021),         330,           -,           -
+Chemists(192031),        2880,       37.74,       78510
+Materials Scientists(192032),         180,       44.37,       92290
+"Environmental Scientists and Specialists, Including Health(192041)",        2410,       45.05,       93710
+"Geoscientists, Except Hydrologists and Geographers(192042)",         670,       44.89,       93380
+Hydrologists(192043),         140,       57.64,      119890
+"Physical Scientists, All Other(192099)",         340,       72.05,      149860
+Economists(193011),         640,       68.03,      141500
+Survey Researchers(193022),         180,       33.16,       68970
+Industrial-Organizational Psychologists(193032),          70,       65.84,      136940
+Clinical and Counseling Psychologists(193033),        3500,       58.73,      122170
+School Psychologists(193034),        2640,       43.28,       90010
+"Psychologists, All Other(193039)",         380,       54.03,      112390
+Urban and Regional Planners(193051),        1850,       47.15,       98060
+Anthropologists and Archeologists(193091),           -,       35.00,       72790
+Historians(193093),          50,       37.78,       78590
+"Social Scientists and Related Workers, All Other(193099)",        1050,       34.23,       71200
+Agricultural Technicians(194012),           -,       25.77,       53600
+Food Science Technicians(194013),         470,       24.03,       49990
+Biological Technicians(194021),        1290,       24.08,       50090
+Chemical Technicians(194031),        2570,       23.59,       49060
+"Environmental Science and Protection Technicians, Including Health(194042)",        1850,       25.29,       52600
+"Geological Technicians, Except Hydrologic Technicians(194043)",         180,       33.36,       69380
+Hydrologic Technicians(194044),          40,       41.50,       86310
+Social Science Research Assistants(194061),        1530,       28.32,       58910
+Forest and Conservation Technicians(194071),         600,       22.35,       46490
+Forensic Science Technicians(194092),        1090,       46.62,       96980
+"Life, Physical, and Social Science Technicians, All Other(194099)",        3030,       28.24,       58750
+Occupational Health and Safety Specialists(195011),        6060,       30.86,       64190
+Occupational Health and Safety Technicians(195012),         610,       27.92,       58080
+Community and Social Service Occupations(210000),      113520,       30.48,       63390
+"Educational, Guidance, and Career Counselors and Advisors(211012)",        9630,       38.60,       80280
+Marriage and Family Therapists(211013),       10880,       26.81,       55760
+Rehabilitation Counselors(211015),        3530,       19.28,       40100
+"Substance abuse, behavioral disorder, and mental health counselors(211018)",       13010,       28.66,       59610
+"Counselors, All Other(211019)",           -,       21.62,       44970
+"Child, Family, and School Social Workers(211021)",       20810,       33.44,       69540
+Healthcare Social Workers(211022),        4320,       39.26,       81660
+Mental Health and Substance Abuse Social Workers(211023),        6500,       37.51,       78020
+"Social Workers, All Other(211029)",        1610,       28.28,       58830
+Health Education Specialists(211091),        1850,       33.45,       69580
+Probation Officers and Correctional Treatment Specialists(211092),        5580,       45.92,       95510
+Social and Human Service Assistants(211093),       19000,       23.35,       48560
+Community Health Workers(211094),        2770,       24.17,       50270
+"Community and Social Service Specialists, All Other(211099)",        4510,       26.41,       54940
+Clergy(212011),        2300,       37.77,       78560
+"Directors, Religious Activities and Education(212021)",        1560,       27.44,       57080
+"Religious Workers, All Other(212099)",         580,       23.19,       48230
+Legal Occupations(230000),       64620,       66.19,      137670
+Lawyers(231011),       41060,       85.36,      177550
+Judicial Law Clerks(231012),           -,       35.54,       73920
+"Administrative Law Judges, Adjudicators, and Hearing Officers(231021)",         690,       62.24,      129460
+Paralegals and Legal Assistants(232011),       14810,       33.26,       69180
+"Title Examiners, Abstractors, and Searchers(232093)",        1260,       31.59,       65710
+"Legal Support Workers, All Other(232099)",        4830,       29.33,       61010
+Educational Instruction and Library Occupations(250000),      329300,       37.03,       77020
+"Business Teachers, Postsecondary(251011)",        2130,           -,      131260
+"Computer Science Teachers, Postsecondary(251021)",         650,           -,      143950
+"Mathematical Science Teachers, Postsecondary(251022)",        1730,           -,      157340
+"Architecture Teachers, Postsecondary(251031)",          60,           -,      155970
+"Engineering Teachers, Postsecondary(251032)",         700,           -,      147720
+"Biological Science Teachers, Postsecondary(251042)",        1070,           -,      150650
+"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary(251051)",         440,           -,      149790
+"Chemistry Teachers, Postsecondary(251052)",         550,           -,      140550
+"Environmental Science Teachers, Postsecondary(251053)",          70,           -,      126820
+"Physics Teachers, Postsecondary(251054)",         230,           -,      142450
+"Anthropology and Archeology Teachers, Postsecondary(251061)",         220,           -,      137640
+"Area, Ethnic, and Cultural Studies Teachers, Postsecondary(251062)",         300,           -,      160290
+"Economics Teachers, Postsecondary(251063)",         290,           -,      172600
+"Geography Teachers, Postsecondary(251064)",          70,           -,      140130
+"Political Science Teachers, Postsecondary(251065)",         260,           -,      150290
+"Psychology Teachers, Postsecondary(251066)",        1130,           -,      141130
+"Sociology Teachers, Postsecondary(251067)",         300,           -,      143100
+"Social Sciences Teachers, Postsecondary, All Other(251069)",        1170,           -,      134750
+"Health Specialties Teachers, Postsecondary(251071)",        2780,           -,      126950
+"Nursing Instructors and Teachers, Postsecondary(251072)",        1530,           -,      109310
+"Education Teachers, Postsecondary(251081)",        1980,           -,       83900
+"Library Science Teachers, Postsecondary(251082)",         140,           -,      154890
+"Criminal Justice and Law Enforcement Teachers, Postsecondary(251111)",         640,           -,      152830
+"Law Teachers, Postsecondary(251112)",         580,           -,      123520
+"Art, Drama, and Music Teachers, Postsecondary(251121)",        6110,           -,      148680
+"Communications Teachers, Postsecondary(251122)",        1090,           -,      149400
+"English Language and Literature Teachers, Postsecondary(251123)",        2280,           -,      145980
+"Foreign Language and Literature Teachers, Postsecondary(251124)",         520,           -,      149170
+"History Teachers, Postsecondary(251125)",         410,           -,      148420
+"Philosophy and Religion Teachers, Postsecondary(251126)",         750,           -,      147650
+"Family and Consumer Sciences Teachers, Postsecondary(251192)",         200,           -,      157890
+"Recreation and Fitness Studies Teachers, Postsecondary(251193)",         860,           -,      136830
+"Career/Technical Education Teachers, Postsecondary(251194)",        2720,       41.80,       86940
+"Preschool Teachers, Except Special Education(252011)",       16260,       20.02,       41650
+"Kindergarten Teachers, Except Special Education(252012)",        3730,           -,       95420
+"Elementary School Teachers, Except Special Education(252021)",       49260,           -,       88320
+"Middle School Teachers, Except Special and Career/Technical Education(252022)",       11860,           -,       93910
+"Career/Technical Education Teachers, Middle School(252023)",           -,           -,       92790
+"Secondary School Teachers, Except Special and Career/Technical Education(252031)",       25220,           -,       96660
+"Career/Technical Education Teachers, Secondary School(252032)",        1010,           -,      107720
+"Special Education Teachers, Kindergarten and Elementary School(252052)",        6080,           -,       77430
+"Special Education Teachers, Middle School(252057)",        1700,           -,       90630
+"Special Education Teachers, Secondary School(252058)",        2450,           -,      103540
+"Special Education Teachers, All Other(252059)",        4200,           -,       64470
+"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors(253011)",        1440,       42.10,       87570
+Self-Enrichment Teachers(253021),       11170,       27.08,       56330
+"Substitute Teachers, Short-Term(253031)",       22190,       22.11,       45990
+Tutors(253041),       16550,       18.79,       39080
+Archivists(254011),         370,       27.93,       58100
+Curators(254012),         300,       37.06,       77090
+Museum Technicians and Conservators(254013),         350,       26.23,       54550
+Librarians and Media Collections Specialists(254022),        2540,       40.77,       84790
+Library Technicians(254031),        2480,       21.72,       45170
+Instructional Coordinators(259031),        4320,       35.50,       73850
+"Teaching Assistants, Postsecondary(259044)",        6800,           -,       40670
+"Teaching Assistants, Except Postsecondary(259045)",       42770,           -,       40510
+"Educational Instruction and Library Workers, All Other(259099)",       20870,       27.94,       58120
+"Arts, Design, Entertainment, Sports, and Media Occupations(270000)",      162760,       43.69,       90870
+Art Directors(271011),        5150,       70.21,      146040
+Craft Artists(271012),         120,       34.66,       72090
+"Fine Artists, Including Painters, Sculptors, and Illustrators(271013)",           -,       32.06,       66690
+Special Effects Artists and Animators(271014),        4880,       45.67,       94990
+"Artists and Related Workers, All Other(271019)",         180,       40.46,       84160
+Commercial and Industrial Designers(271021),        2480,       45.74,       95140
+Fashion Designers(271022),        3840,       43.83,       91170
+Floral Designers(271023),        1160,       17.09,       35550
+Graphic Designers(271024),       13260,       32.74,       68100
+Interior Designers(271025),        3450,       33.04,       68730
+Merchandise Displayers and Window Trimmers(271026),        7860,       18.26,       37970
+Set and Exhibit Designers(271027),         570,       28.09,       58440
+"Designers, All Other(271029)",         810,       53.45,      111180
+Actors(272011),           -,       39.28,           -
+Producers and Directors(272012),       36850,       69.04,      143610
+Athletes and Sports Competitors(272021),           -,           -,      121150
+Coaches and Scouts(272022),        5760,           -,       57290
+"Umpires, Referees, and Other Sports Officials(272023)",          90,           -,       40700
+Dancers(272031),         270,       18.97,           -
+Choreographers(272032),          70,       30.41,       63250
+Music Directors and Composers(272041),         950,       32.78,       68170
+Musicians and Singers(272042),        1640,       48.30,           -
+"Entertainers and Performers, Sports and Related Workers, All Other(272099)",         540,       27.90,           -
+Broadcast Announcers and Radio Disc Jockeys(273011),        1850,       29.52,       61410
+"News Analysts, Reporters, and Journalists(273023)",        2060,       29.34,       61030
+Public Relations Specialists(273031),        9270,       37.39,       77770
+Editors(273041),        5500,       39.48,       82110
+Technical Writers(273042),        1820,       42.90,       89220
+Writers and Authors(273043),        6580,       56.33,      117170
+Interpreters and Translators(273091),        2010,       34.31,       71370
+Court Reporters and Simultaneous Captioners(273092),         430,       32.09,       66740
+"Media and Communication Workers, All Other(273099)",        3660,       26.78,       55710
+Audio and Video Technicians(274011),        4960,       31.27,       65040
+Broadcast Technicians(274012),        3090,       21.82,       45390
+Sound Engineering Technicians(274014),        2810,       37.50,       78010
+Lighting Technicians(274015),           -,       26.96,       56080
+Photographers(274021),           -,       24.68,       51340
+"Camera Operators, Television, Video, and Film(274031)",           -,       30.29,       63010
+Film and Video Editors(274032),        8880,       39.96,       83110
+"Media and Communication Equipment Workers, All Other(274099)",        4630,       26.07,       54230
+Healthcare Practitioners and Technical Occupations(290000),      323700,       52.07,      108300
+Chiropractors(291011),        1030,       39.96,       83110
+"Dentists, General(291021)",           -,       72.86,      151540
+Orthodontists(291023),           -,      117.56,      244520
+"Dentists, All Other Specialists(291029)",           -,       86.98,      180930
+Dietitians and Nutritionists(291031),        2800,       36.64,       76210
+Optometrists(291041),        2820,       60.58,      126010
+Pharmacists(291051),       12790,       65.84,      136950
+Physician Assistants(291071),        5320,       62.12,      129210
+Podiatrists(291081),         230,       64.02,      133160
+Occupational Therapists(291122),        4550,       50.55,      105150
+Physical Therapists(291123),        9530,       45.64,       94940
+Radiation Therapists(291124),         270,       63.44,      131960
+Recreational Therapists(291125),         560,       29.38,       61110
+Respiratory Therapists(291126),        6020,       42.30,       87980
+Speech-Language Pathologists(291127),        5140,       48.33,      100530
+Exercise Physiologists(291128),          80,       36.76,       76450
+"Therapists, All Other(291129)",         290,       43.37,       90200
+Veterinarians(291131),        2100,       58.53,      121750
+Registered Nurses(291141),      113890,       55.82,      116110
+Nurse Anesthetists(291151),         680,      107.70,      224010
+Nurse Midwives(291161),         320,       64.26,      133660
+Nurse Practitioners(291171),        5490,       69.68,      144930
+Audiologists(291181),         510,       48.73,      101370
+Anesthesiologists(291211),           -,      137.56,      286130
+Cardiologists(291212),        2070,      151.06,      314200
+Dermatologists(291213),           -,           -,           -
+Emergency Medicine Physicians(291214),           -,           -,           -
+Family Medicine Physicians(291215),        3080,      125.54,      261120
+General Internal Medicine Physicians(291216),        1940,      118.32,      246100
+Neurologists(291217),          40,      108.80,      226310
+Obstetricians and Gynecologists(291218),        1120,      133.63,      277960
+"Pediatricians, General(291221)",        2810,       83.35,      173360
+"Physicians, Pathologists(291222)",         250,      140.61,      292480
+Psychiatrists(291223),        1950,      146.79,      305320
+Radiologists(291224),           -,      151.82,      315790
+"Physicians, All Other(291229)",        5480,      113.29,      235630
+"Orthopedic Surgeons, Except Pediatric(291242)",           -,      131.72,      273980
+Acupuncturists(291291),           -,       37.23,       77440
+Dental Hygienists(291292),       10150,       50.41,      104840
+"Healthcare Diagnosing or Treating Practitioners, All Other(291299)",         440,       53.17,      110590
+Clinical Laboratory Technologists and Technicians(292010),       10050,       31.63,       65790
+Cardiovascular Technologists and Technicians(292031),        2420,       35.03,       72860
+Diagnostic Medical Sonographers(292032),        2910,       48.96,      101830
+Nuclear Medicine Technologists(292033),         480,       58.44,      121560
+Radiologic Technologists and Technicians(292034),        6590,       40.90,       85070
+Magnetic Resonance Imaging Technologists(292035),         910,       49.34,      102620
+Emergency Medical Technicians(292042),        5350,       19.20,       39930
+Paramedics(292043),        1370,       28.84,       59990
+Dietetic Technicians(292051),        1310,       20.84,       43340
+Pharmacy Technicians(292052),       13770,       23.08,       48010
+Psychiatric Technicians(292053),        3340,       23.86,       49630
+Surgical Technologists(292055),        4510,       32.22,       67020
+Veterinary Technologists and Technicians(292056),        2990,       20.76,       43180
+Ophthalmic Medical Technicians(292057),        1580,       22.94,       47720
+Licensed Practical and Licensed Vocational Nurses(292061),       29750,       30.77,       63990
+Medical Records Specialists(292072),        6450,       27.55,       57310
+"Opticians, Dispensing(292081)",        2730,       26.16,       54420
+Orthotists and Prosthetists(292091),           -,       44.25,       92040
+Hearing Aid Specialists(292092),           -,       27.53,       57260
+"Health Technologists and Technicians, All Other(292099)",        7830,       25.80,       53660
+Health Information Technologists and Medical Registrars(299021),        1080,       39.74,       82660
+Athletic Trainers(299091),         390,           -,       61860
+Genetic Counselors(299092),          90,       48.26,      100390
+"Healthcare Practitioners and Technical Workers, All Other(299099)",        2830,       31.91,       66360
+Healthcare Support Occupations(310000),      421890,       16.53,       34390
+Home Health and Personal Care Aides(311120),      301130,       15.02,       31250
+Nursing Assistants(311131),       38030,       18.60,       38690
+Orderlies(311132),        1810,       20.18,       41960
+Psychiatric Aides(311133),           -,       20.86,       43380
+Occupational Therapy Assistants(312011),           -,       35.31,       73440
+Occupational Therapy Aides(312012),         130,       24.97,       51950
+Physical Therapist Assistants(312021),        2190,       36.12,       75120
+Physical Therapist Aides(312022),        1860,       15.90,       33070
+Massage Therapists(319011),        3610,       25.39,       52810
+Dental Assistants(319091),       15740,       20.84,       43340
+Medical Assistants(319092),       30700,       19.90,       41390
+Medical Equipment Preparers(319093),        2530,       25.25,       52520
+Pharmacy Aides(319095),        3980,       21.64,       45010
+Veterinary Assistants and Laboratory Animal Caretakers(319096),        3960,       16.80,       34950
+Phlebotomists(319097),        4590,       22.24,       46260
+"Healthcare Support Workers, All Other(319099)",        4140,       23.39,       48650
+Protective Service Occupations(330000),      133140,       29.92,       62230
+First-Line Supervisors of Correctional Officers(331011),         260,       50.63,      105300
+First-Line Supervisors of Police and Detectives(331012),        3420,       74.95,      155890
+First-Line Supervisors of Firefighting and Prevention Workers(331021),        1540,       70.07,      145740
+First-Line Supervisors of Security Workers(331091),        2030,       27.81,       57840
+"First-Line Supervisors of Protective Service Workers, All Other(331099)",        1040,       37.15,       77260
+Firefighters(332011),        6760,       44.07,       91660
+Fire Inspectors and Investigators(332021),         220,       34.68,       72130
+Forest Fire Inspectors and Prevention Specialists(332022),         120,       50.03,      104060
+Correctional Officers and Jailers(333012),        5130,       35.84,       74550
+Detectives and Criminal Investigators(333021),        2930,       55.70,      115860
+Parking Enforcement Workers(333041),         420,       27.50,       57200
+Police and Sheriff's Patrol Officers(333051),       25840,       49.72,      103410
+Animal Control Workers(339011),         390,       29.12,       60570
+Private Detectives and Investigators(339021),        1320,       30.04,       62490
+Security Guards(339032),       56700,       17.75,       36920
+Crossing Guards and Flaggers(339091),        1310,       20.86,       43400
+"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers(339092)",        5490,       17.32,       36030
+Transportation Security Screeners(339093),        3740,       23.74,       49380
+School Bus Monitors(339094),          90,       17.67,       36750
+"Protective Service Workers, All Other(339099)",       14060,       19.77,       41120
+Food Preparation and Serving Related Occupations(350000),      448780,       17.04,       35430
+Chefs and Head Cooks(351011),        5390,       29.64,       61650
+First-Line Supervisors of Food Preparation and Serving Workers(351012),       37780,       22.49,       46770
+"Cooks, Fast Food(352011)",       41060,       15.43,       32090
+"Cooks, Institution and Cafeteria(352012)",        6320,       19.69,       40950
+"Cooks, Restaurant(352014)",       49520,       18.32,       38100
+"Cooks, Short Order(352015)",        4780,       16.11,       33510
+"Cooks, All Other(352019)",         940,       19.34,       40220
+Food Preparation Workers(352021),       32470,       16.32,       33950
+Bartenders(353011),       12160,       20.13,       41880
+Fast Food and Counter Workers(353023),      132740,       15.33,       31890
+Waiters and Waitresses(353031),       62430,       17.49,       36370
+"Food Servers, Nonrestaurant(353041)",        8010,       16.72,       34770
+Dining Room and Cafeteria Attendants and Bartender Helpers(359011),       13840,       15.40,       32040
+Dishwashers(359021),       21730,       14.95,       31100
+"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop(359031)",       10470,       15.42,       32070
+"Food Preparation and Serving Related Workers, All Other(359099)",        9100,       15.39,       32020
+Building and Grounds Cleaning and Maintenance Occupations(370000),      143730,       18.42,       38310
+First-Line Supervisors of Housekeeping and Janitorial Workers(371011),        4180,       25.77,       53600
+"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers(371012)",        3350,       27.20,       56580
+"Janitors and Cleaners, Except Maids and Housekeeping Cleaners(372011)",       74890,       17.58,       36560
+Maids and Housekeeping Cleaners(372012),       27950,       17.03,       35420
+"Building Cleaning Workers, All Other(372019)",           -,       20.89,       43460
+Pest Control Workers(372021),        2740,       20.91,       43490
+Landscaping and Groundskeeping Workers(373011),       25650,       18.89,       39290
+"Pesticide Handlers, Sprayers, and Applicators, Vegetation(373012)",         410,       23.18,       48220
+Tree Trimmers and Pruners(373013),        2040,       26.67,       55480
+"Grounds Maintenance Workers, All Other(373019)",        1440,       18.96,       39430
+Personal Care and Service Occupations(390000),       97990,       18.72,       38940
+First-Line Supervisors of Gambling Services Workers(391013),         190,       27.15,       56470
+"First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services(391014)",        2620,       23.75,       49400
+First-Line Supervisors of Personal Service Workers(391022),        4160,       27.08,       56320
+Animal Trainers(392011),         420,       18.88,       39270
+Animal Caretakers(392021),        8260,       16.67,       34670
+Motion Picture Projectionists(393021),          50,       21.78,       45300
+"Ushers, Lobby Attendants, and Ticket Takers(393031)",        2220,       15.96,       33190
+Amusement and Recreation Attendants(393091),       13790,       15.16,       31530
+Costume Attendants(393092),         710,       28.13,       58500
+"Locker Room, Coatroom, and Dressing Room Attendants(393093)",         430,       19.09,       39710
+Embalmers(394011),         160,       26.71,       55560
+Funeral Attendants(394021),         740,       18.51,       38490
+"Morticians, Undertakers, and Funeral Arrangers(394031)",         840,       22.76,       47330
+Barbers(395011),         380,       20.96,       43590
+"Hairdressers, Hairstylists, and Cosmetologists(395012)",        6090,       20.20,       42010
+"Makeup Artists, Theatrical and Performance(395091)",           -,       65.93,      137140
+Manicurists and Pedicurists(395092),       10080,       14.63,       30420
+Skincare Specialists(395094),        3080,       19.77,       41130
+Baggage Porters and Bellhops(396011),         820,       16.33,       33970
+Concierges(396012),        1920,       18.42,       38310
+Tour and Travel Guides(397010),        1380,       17.18,       35720
+Childcare Workers(399011),        7810,       16.39,       34080
+Exercise Trainers and Group Fitness Instructors(399031),        8290,       25.09,       52180
+Recreation Workers(399032),       13250,       16.73,       34800
+Residential Advisors(399041),        3630,       19.07,       39660
+"Personal Care and Service Workers, All Other(399099)",        2350,       16.20,       33700
+Sales and Related Occupations(410000),      510440,       24.01,       49940
+First-Line Supervisors of Retail Sales Workers(411011),       35990,       23.46,       48810
+First-Line Supervisors of Non-Retail Sales Workers(411012),        7300,       40.05,       83290
+Cashiers(412011),      129940,       15.34,       31910
+Counter and Rental Clerks(412021),       28820,       18.23,       37910
+Parts Salespersons(412022),        8400,       18.99,       39510
+Retail Salespersons(412031),      120220,       17.29,       35970
+Advertising Sales Agents(413011),        4430,       37.40,       77780
+Insurance Sales Agents(413021),       16290,       37.76,       78530
+"Securities, Commodities, and Financial Services Sales Agents(413031)",       21900,       38.59,       80260
+Travel Agents(413041),        1870,       23.02,       47870
+"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel(413091)",       39580,       33.29,       69240
+"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products(414011)",        9430,       46.52,       96770
+"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products(414012)",       54890,       36.32,       75550
+Demonstrators and Product Promoters(419011),        2240,       20.18,       41970
+Real Estate Brokers(419021),        2260,           -,           -
+Real Estate Sales Agents(419022),        6960,       35.97,       74820
+Sales Engineers(419031),        2220,       55.72,      115900
+Telemarketers(419041),        3880,       16.92,       35180
+"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers(419091)",         620,       17.80,       37020
+"Sales and Related Workers, All Other(419099)",       12990,       27.39,       56980
+Office and Administrative Support Occupations(430000),      717630,       23.46,       48790
+First-Line Supervisors of Office and Administrative Support Workers(431011),       54380,       33.40,       69480
+"Switchboard Operators, Including Answering Service(432011)",        2620,       19.86,       41310
+Telephone Operators(432021),           -,       22.64,       47090
+Bill and Account Collectors(433011),        9240,       23.51,       48900
+Billing and Posting Clerks(433021),       23070,       22.74,       47300
+"Bookkeeping, Accounting, and Auditing Clerks(433031)",       63270,       24.26,       50470
+Payroll and Timekeeping Clerks(433051),        6930,       26.71,       55570
+Procurement Clerks(433061),        2220,       23.50,       48870
+Tellers(433071),       11610,       19.23,       39990
+"Financial Clerks, All Other(433099)",        1400,       28.60,       59480
+Brokerage Clerks(434011),        1490,       26.20,       54500
+Correspondence Clerks(434021),         220,       21.98,       45710
+"Court, Municipal, and License Clerks(434031)",        2460,       27.42,       57040
+"Credit Authorizers, Checkers, and Clerks(434041)",         370,       21.54,       44810
+Customer Service Representatives(434051),       76730,       20.84,       43340
+"Eligibility Interviewers, Government Programs(434061)",       14910,       26.89,       55930
+File Clerks(434071),        3990,       19.69,       40960
+"Hotel, Motel, and Resort Desk Clerks(434081)",        5660,       16.37,       34060
+"Interviewers, Except Eligibility and Loan(434111)",        8000,       21.25,       44200
+"Library Assistants, Clerical(434121)",        2950,       21.12,       43930
+Loan Interviewers and Clerks(434131),        9420,       23.44,       48750
+Order Clerks(434151),        8130,       19.87,       41320
+"Human Resources Assistants, Except Payroll and Timekeeping(434161)",        4990,       23.79,       49470
+Receptionists and Information Clerks(434171),       30390,       17.40,       36200
+Reservation and Transportation Ticket Agents and Travel Clerks(434181),        4990,       22.65,       47120
+"Information and Record Clerks, All Other(434199)",        6830,       24.57,       51100
+Cargo and Freight Agents(435011),        7430,       25.33,       52680
+Couriers and Messengers(435021),        4360,       17.82,       37070
+Public Safety Telecommunicators(435031),        1820,       34.09,       70910
+"Dispatchers, Except Police, Fire, and Ambulance(435032)",        7100,       22.92,       47680
+"Meter Readers, Utilities(435041)",         290,       27.72,       57650
+Postal Service Clerks(435051),        2230,       27.79,       57790
+Postal Service Mail Carriers(435052),       11310,       27.29,       56760
+"Postal Service Mail Sorters, Processors, and Processing Machine Operators(435053)",        6250,       24.09,       50110
+"Production, Planning, and Expediting Clerks(435061)",       21200,       25.29,       52600
+"Shipping, Receiving, and Inventory Clerks(435071)",       33600,       19.49,       40550
+"Weighers, Measurers, Checkers, and Samplers, Recordkeeping(435111)",        1960,       18.26,       37980
+Executive Secretaries and Executive Administrative Assistants(436011),       20960,       33.21,       69090
+Legal Secretaries and Administrative Assistants(436012),       10030,       31.39,       65290
+Medical Secretaries and Administrative Assistants(436013),       30930,       22.11,       45980
+"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive(436014)",       65350,       22.40,       46580
+Data Entry Keyers(439021),        6440,       18.94,       39400
+Word Processors and Typists(439022),        6700,       22.62,       47040
+Desktop Publishers(439031),         140,       24.84,       51660
+Insurance Claims and Policy Processing Clerks(439041),        7470,       24.90,       51800
+"Mail Clerks and Mail Machine Operators, Except Postal Service(439051)",        1560,       17.91,       37250
+"Office Clerks, General(439061)",      102320,       21.13,       43950
+"Office Machine Operators, Except Computer(439071)",         940,       18.92,       39360
+Proofreaders and Copy Markers(439081),         290,       25.17,       52350
+Statistical Assistants(439111),          90,       31.82,       66190
+"Office and Administrative Support Workers, All Other(439199)",       10120,       25.26,       52550
+"Farming, Fishing, and Forestry Occupations(450000)",        5260,       19.51,       40580
+"First-Line Supervisors of Farming, Fishing, and Forestry Workers(451011)",         450,       28.09,       58430
+Agricultural Inspectors(452011),         560,       28.44,       59160
+"Graders and Sorters, Agricultural Products(452041)",         340,       15.66,       32570
+"Farmworkers and Laborers, Crop, Nursery, and Greenhouse(452092)",        2230,       16.67,       34670
+"Farmworkers, Farm, Ranch, and Aquacultural Animals(452093)",         480,       18.56,       38600
+"Agricultural Workers, All Other(452099)",         160,       19.69,       40940
+Forest and Conservation Workers(454011),         700,       14.76,       30690
+Construction and Extraction Occupations(470000),      187090,       31.18,       64860
+First-Line Supervisors of Construction Trades and Extraction Workers(471011),       19170,       41.51,       86340
+Brickmasons and Blockmasons(472021),         870,       35.01,       72810
+Stonemasons(472022),         460,       27.64,       57480
+Carpenters(472031),       29570,       30.58,       63610
+Carpet Installers(472041),        1080,       25.57,       53190
+"Floor Layers, Except Carpet, Wood, and Hard Tiles(472042)",        1180,       30.67,       63800
+Tile and Stone Setters(472044),        2520,       26.89,       55920
+Cement Masons and Concrete Finishers(472051),        6430,       28.88,       60070
+Terrazzo Workers and Finishers(472053),         330,       24.98,       51950
+Construction Laborers(472061),       28290,       24.70,       51380
+"Paving, Surfacing, and Tamping Equipment Operators(472071)",        1140,       34.86,       72500
+Operating Engineers and Other Construction Equipment Operators(472073),        6600,       37.91,       78850
+Drywall and Ceiling Tile Installers(472081),        8750,       32.42,       67440
+Tapers(472082),        1240,       30.91,       64300
+Electricians(472111),       19660,       34.83,       72450
+Glaziers(472121),        1810,       30.77,       64010
+"Insulation Workers, Floor, Ceiling, and Wall(472131)",         520,       26.98,       56110
+"Insulation Workers, Mechanical(472132)",         320,           -,           -
+"Painters, Construction and Maintenance(472141)",       10320,       25.30,       52620
+Pipelayers(472151),         560,       26.52,       55160
+"Plumbers, Pipefitters, and Steamfitters(472152)",       12630,       32.17,       66910
+Plasterers and Stucco Masons(472161),        2870,       28.84,       59980
+Reinforcing Iron and Rebar Workers(472171),         610,       31.95,       66450
+Roofers(472181),        4700,       29.11,       60560
+Sheet Metal Workers(472211),        3150,       33.63,       69950
+Structural Iron and Steel Workers(472221),        2430,       33.58,       69850
+"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters(473011)",         840,       23.14,       48140
+Helpers--Carpenters(473012),         550,       18.86,       39220
+Helpers--Electricians(473013),        1100,       20.83,       43320
+"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons(473014)",         800,       17.83,       37090
+"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters(473015)",         950,       20.96,       43610
+"Helpers, Construction Trades, All Other(473019)",        1130,       19.60,       40760
+Construction and Building Inspectors(474011),        2900,       44.75,       93080
+Elevator and Escalator Installers and Repairers(474021),         800,       51.41,      106930
+Hazardous Materials Removal Workers(474041),        2720,       26.67,       55480
+Highway Maintenance Workers(474051),        2390,       25.23,       52480
+Septic Tank Servicers and Sewer Pipe Cleaners(474071),         510,       24.21,       50350
+Miscellaneous Construction and Related Workers(474090),         610,       25.44,       52920
+"Rotary Drill Operators, Oil and Gas(475012)",         210,       40.48,       84210
+"Service Unit Operators, Oil and Gas(475013)",         300,       29.52,       61390
+"Excavating and Loading Machine and Dragline Operators, Surface Mining(475022)",         280,       36.76,       76460
+"Roustabouts, Oil and Gas(475071)",         200,       24.88,       51750
+"Installation, Maintenance, and Repair Occupations(490000)",      156000,       28.36,       58980
+"First-Line Supervisors of Mechanics, Installers, and Repairers(491011)",       13140,       41.21,       85710
+"Computer, Automated Teller, and Office Machine Repairers(492011)",        3320,       23.17,       48190
+"Radio, Cellular, and Tower Equipment Installers and Repairers(492021)",         380,       34.33,       71400
+"Telecommunications Equipment Installers and Repairers, Except Line Installers(492022)",        5830,       32.16,       66880
+Avionics Technicians(492091),         510,       37.35,       77690
+"Electric Motor, Power Tool, and Related Repairers(492092)",         370,       24.34,       50630
+"Electrical and Electronics Installers and Repairers, Transportation Equipment(492093)",         210,       26.62,       55370
+"Electrical and Electronics Repairers, Commercial and Industrial Equipment(492094)",         900,       32.59,       67780
+"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay(492095)",         510,       52.55,      109290
+"Electronic Equipment Installers and Repairers, Motor Vehicles(492096)",         100,       23.24,       48340
+Audiovisual Equipment Installers and Repairers(492097),         530,       24.68,       51340
+Security and Fire Alarm Systems Installers(492098),        4230,       28.30,       58870
+Aircraft Mechanics and Service Technicians(493011),        4330,       38.11,       79260
+Automotive Body and Related Repairers(493021),        4150,       25.77,       53610
+Automotive Glass Installers and Repairers(493022),         340,       18.90,       39310
+Automotive Service Technicians and Mechanics(493023),       17540,       25.40,       52840
+Bus and Truck Mechanics and Diesel Engine Specialists(493031),        5290,       29.74,       61850
+"Mobile Heavy Equipment Mechanics, Except Engines(493042)",        3060,       31.15,       64790
+Motorboat Mechanics and Service Technicians(493051),         340,       24.89,       51770
+Motorcycle Mechanics(493052),         510,       26.63,       55390
+Outdoor Power Equipment and Other Small Engine Mechanics(493053),         770,       22.89,       47610
+Bicycle Repairers(493091),         970,       17.33,       36040
+Recreational Vehicle Service Technicians(493092),         350,       27.78,       57770
+Tire Repairers and Changers(493093),        2560,       18.26,       37970
+Mechanical Door Repairers(499011),           -,       22.89,       47610
+"Control and Valve Installers and Repairers, Except Mechanical Door(499012)",        1330,       37.57,       78140
+"Heating, Air Conditioning, and Refrigeration Mechanics and Installers(499021)",        8910,       30.95,       64380
+Home Appliance Repairers(499031),        1000,       23.44,       48760
+Industrial Machinery Mechanics(499041),        7670,       31.30,       65100
+"Maintenance Workers, Machinery(499043)",        1230,       29.70,       61780
+Millwrights(499044),         570,       33.08,       68810
+Electrical Power-Line Installers and Repairers(499051),        2400,       47.28,       98330
+Telecommunications Line Installers and Repairers(499052),        4220,       33.62,       69940
+Medical Equipment Repairers(499062),        2420,       33.06,       68760
+Musical Instrument Repairers and Tuners(499063),           -,       22.07,       45900
+"Precision Instrument and Equipment Repairers, All Other(499069)",         740,       26.37,       54850
+"Maintenance and Repair Workers, General(499071)",       42600,       23.74,       49380
+"Coin, Vending, and Amusement Machine Servicers and Repairers(499091)",         290,       25.52,       53080
+Locksmiths and Safe Repairers(499094),         770,       24.25,       50440
+Riggers(499096),           -,       34.23,       71200
+"Helpers--Installation, Maintenance, and Repair Workers(499098)",        2410,       18.26,       37970
+"Installation, Maintenance, and Repair Workers, All Other(499099)",        7730,       21.56,       44840
+Production Occupations(510000),      302280,       20.86,       43380
+First-Line Supervisors of Production and Operating Workers(511011),       17600,       32.00,       66560
+"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers(512011)",        1110,       24.77,       51530
+"Coil Winders, Tapers, and Finishers(512021)",         280,       19.62,       40810
+"Electrical, electronic, and electromechanical assemblers, except coil winders, tapers, and finishers(512028)",       13810,       19.40,       40350
+Engine and Other Machine Assemblers(512031),         630,       22.34,       46470
+Structural Metal Fabricators and Fitters(512041),        1260,       22.07,       45900
+Fiberglass Laminators and Fabricators(512051),         410,       19.67,       40910
+Miscellaneous Assemblers and Fabricators(512090),       43740,       17.82,       37060
+Bakers(513011),        7770,       17.26,       35890
+Butchers and Meat Cutters(513021),       10080,       17.61,       36640
+"Meat, Poultry, and Fish Cutters and Trimmers(513022)",        3390,       15.59,       32430
+Slaughterers and Meat Packers(513023),        1560,       15.73,       32720
+"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders(513091)",         300,       19.15,       39830
+Food Batchmakers(513092),        6310,       16.96,       35270
+Food Cooking Machine Operators and Tenders(513093),           -,       16.72,       34780
+"Food Processing Workers, All Other(513099)",        3070,       17.00,       35350
+"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic(514021)",        1230,       19.01,       39550
+"Forging Machine Setters, Operators, and Tenders, Metal and Plastic(514022)",         650,       22.42,       46630
+"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic(514023)",           -,       21.64,       45010
+"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic(514031)",        3990,       19.94,       41480
+"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic(514032)",         610,       23.21,       48270
+"Grinding/Lapping/Polishing/Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic(514033)",        3810,       19.50,       40570
+"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic(514034)",        1230,       22.78,       47380
+"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic(514035)",        1230,       23.09,       48030
+Machinists(514041),       12140,       23.76,       49420
+Metal-Refining Furnace Operators and Tenders(514051),         230,       24.02,       49960
+"Pourers and Casters, Metal(514052)",         160,       18.76,       39020
+"Model Makers, Metal and Plastic(514061)",         120,       32.49,       67580
+Foundry Mold and Coremakers(514071),         350,       18.91,       39340
+"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic(514072)",        4670,       18.28,       38020
+"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic(514081)",        1120,       20.55,       42730
+Tool and Die Makers(514111),        1130,       31.62,       65770
+"Welders, Cutters, Solderers, and Brazers(514121)",        8900,       24.49,       50940
+"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders(514122)",         960,       20.28,       42190
+"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic(514191)",         540,       21.73,       45190
+"Layout Workers, Metal and Plastic(514192)",         240,       22.79,       47410
+"Plating Machine Setters, Operators, and Tenders, Metal and Plastic(514193)",        2730,       20.10,       41810
+"Tool Grinders, Filers, and Sharpeners(514194)",         310,       19.87,       41320
+"Metal Workers and Plastic Workers, All Other(514199)",         990,       20.17,       41940
+Prepress Technicians and Workers(515111),        1510,       22.54,       46890
+Printing Press Operators(515112),        5990,       20.93,       43540
+Print Binding and Finishing Workers(515113),        1240,       18.07,       37580
+Laundry and Dry-Cleaning Workers(516011),        4680,       16.10,       33490
+"Pressers, Textile, Garment, and Related Materials(516021)",        2040,       15.63,       32510
+Sewing Machine Operators(516031),       11290,       15.75,       32760
+Shoe and Leather Workers and Repairers(516041),         340,       20.78,       43220
+Shoe Machine Operators and Tenders(516042),         100,       14.68,       30530
+"Sewers, Hand(516051)",           -,       15.62,       32490
+"Tailors, Dressmakers, and Custom Sewers(516052)",        1260,       17.80,       37020
+Textile Bleaching and Dyeing Machine Operators and Tenders(516061),         840,       15.32,       31870
+"Textile Cutting Machine Setters, Operators, and Tenders(516062)",         940,       15.47,       32180
+"Textile Knitting and Weaving Machine Setters, Operators, and Tenders(516063)",         430,       17.29,       35950
+"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers(516091)",         220,       21.51,       44740
+Fabric and Apparel Patternmakers(516092),         650,       35.81,       74480
+Upholsterers(516093),        1920,       18.30,       38060
+"Textile, Apparel, and Furnishings Workers, All Other(516099)",        1800,       16.64,       34600
+Cabinetmakers and Bench Carpenters(517011),        3470,       21.39,       44480
+Furniture Finishers(517021),         720,       19.72,       41010
+"Sawing Machine Setters, Operators, and Tenders, Wood(517041)",         320,       18.60,       38680
+"Woodworking Machine Setters, Operators, and Tenders, Except Sawing(517042)",        1380,       19.26,       40060
+"Woodworkers, All Other(517099)",         220,       17.73,       36880
+Power Distributors and Dispatchers(518012),         150,       49.07,      102060
+Power Plant Operators(518013),         640,       45.13,       93870
+Stationary Engineers and Boiler Operators(518021),        1740,       33.52,       69730
+Water and Wastewater Treatment Plant and System Operators(518031),        2060,       35.70,       74260
+Chemical Plant and System Operators(518091),         240,           -,           -
+Gas Plant Operators(518092),         380,       47.48,       98750
+"Petroleum Pump System Operators, Refinery Operators, and Gaugers(518093)",        1460,       44.62,       92810
+"Plant and System Operators, All Other(518099)",         350,       27.19,       56540
+Chemical Equipment Operators and Tenders(519011),        2040,       23.77,       49440
+"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders(519012)",        1140,       23.78,       49460
+"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders(519021)",         690,       20.49,       42620
+"Grinding and Polishing Workers, Hand(519022)",        1710,       17.75,       36920
+"Mixing and Blending Machine Setters, Operators, and Tenders(519023)",        3510,       20.96,       43590
+"Cutters and Trimmers, Hand(519031)",         490,       16.30,       33910
+"Cutting and Slicing Machine Setters, Operators, and Tenders(519032)",        1620,       19.40,       40360
+"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders(519041)",        1470,       18.49,       38460
+"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders(519051)",         290,       18.97,       39460
+"Inspectors, Testers, Sorters, Samplers, and Weighers(519061)",       22710,       22.33,       46440
+Jewelers and Precious Stone and Metal Workers(519071),        1310,       24.71,       51410
+Dental Laboratory Technicians(519081),        2280,       22.61,       47020
+Medical Appliance Technicians(519082),        1260,       23.48,       48850
+Ophthalmic Laboratory Technicians(519083),        1040,       21.88,       45510
+Packaging and Filling Machine Operators and Tenders(519111),       13800,       18.50,       38470
+"Painting, Coating, and Decorating Workers(519123)",         560,       19.93,       41460
+"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders(519124)",        4920,       22.06,       45890
+Semiconductor Processing Technicians(519141),        1230,       20.23,       42070
+Photographic Process Workers and Processing Machine Operators(519151),         440,       24.40,       50750
+Computer Numerically Controlled Tool Operators(519161),        6430,       22.73,       47270
+Computer Numerically Controlled Tool Programmers(519162),        1270,       35.64,       74130
+Adhesive Bonding Machine Operators and Tenders(519191),         140,       20.69,       43030
+"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders(519192)",         430,       17.22,       35820
+Cooling and Freezing Equipment Operators and Tenders(519193),         110,       20.15,       41920
+Etchers and Engravers(519194),         260,       18.28,       38030
+"Molders, Shapers, and Casters, Except Metal and Plastic(519195)",        1040,       21.07,       43820
+"Paper Goods Machine Setters, Operators, and Tenders(519196)",        1430,       22.07,       45910
+Helpers--Production Workers(519198),        7300,       16.94,       35240
+"Production Workers, All Other(519199)",       11640,       19.60,       40770
+Transportation and Material Moving Occupations(530000),      481620,       21.09,       43860
+Aircraft Cargo Handling Supervisors(531041),         520,       28.70,       59690
+"First-Line Supervisors of Transportation Workers, Except Aircraft Cargo Handling Supervisors(531047)",       21060,       28.42,       59110
+"Airline Pilots, Copilots, and Flight Engineers(532011)",        4770,           -,      229160
+Commercial Pilots(532012),        2280,           -,      184260
+Airfield Operations Specialists(532022),        1590,           -,           -
+Flight Attendants(532031),        7790,           -,       60710
+"Ambulance Drivers and Attendants, Except Emergency Medical Technicians(533011)",         310,       17.86,       37160
+Driver/Sales Workers(533031),       15360,       17.97,       37380
+Heavy and Tractor-Trailer Truck Drivers(533032),       49540,       24.61,       51190
+Light Truck Drivers(533033),       44570,       21.93,       45620
+"Bus Drivers, School(533051)",        3370,       22.16,       46090
+"Bus Drivers, Transit and Intercity(533052)",        5590,       26.05,       54190
+Shuttle Drivers and Chauffeurs(533053),        5610,       18.41,       38290
+Taxi Drivers(533054),         140,       16.18,       33650
+"Motor Vehicle Operators, All Other(533099)",        1010,       23.73,       49360
+"Rail Transportation Workers, All Other(534099)",         160,       31.66,       65850
+Sailors and Marine Oilers(535011),         900,       24.40,       50750
+"Captains, Mates, and Pilots of Water Vessels(535021)",        1300,       49.60,      103160
+Ship Engineers(535031),         310,           -,           -
+Parking Attendants(536021),        7980,       15.44,       32100
+Automotive and Watercraft Service Attendants(536031),        2390,       16.02,       33330
+Aircraft Service Attendants(536032),         140,       20.39,       42420
+Traffic Technicians(536041),          90,       31.21,       64920
+Transportation Inspectors(536051),         740,       35.28,       73370
+Passenger Attendants(536061),        8440,       16.25,       33800
+"Transportation Workers, All Other(536099)",         140,       21.82,       45380
+Conveyor Operators and Tenders(537011),         870,       16.95,       35260
+Crane and Tower Operators(537021),        1370,       39.28,       81710
+Industrial Truck and Tractor Operators(537051),       22030,       20.08,       41760
+Cleaners of Vehicles and Equipment(537061),       17040,       15.70,       32660
+"Laborers and Freight, Stock, and Material Movers, Hand(537062)",      135530,       17.72,       36850
+Machine Feeders and Offbearers(537063),        1670,       18.17,       37790
+"Packers and Packagers, Hand(537064)",       26490,       16.11,       33520
+Stockers and Order Fillers(537065),       82760,       17.32,       36020
+"Pump Operators, Except Wellhead Pumpers(537072)",         130,           -,           -
+Refuse and Recyclable Material Collectors(537081),        3980,       26.23,       54560
+"Material Moving Workers, All Other(537199)",        2600,       17.89,       37210
